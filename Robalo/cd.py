@@ -20,7 +20,7 @@ time.sleep(4)
 pa.write("george.saraujo")
 time.sleep(2)
 pa.press('tab')
-pa.write('Kjl@7449')
+pa.write('-----')
 pa.press('enter')
 time.sleep(2)
 
